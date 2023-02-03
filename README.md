@@ -1,5 +1,6 @@
 # MemoApp
 MemoApp is a tool that helps you remember information. User can create sets of terms and memorize them using difference algorithm.
+All sets are saved in memory and user have access to data at any time.
 
 ## GUI
 Application has user-friendly GUI with intuitive understanding functionality.
@@ -23,7 +24,8 @@ Application has such functionality:
   - Statistic for each set
   - Overall statistic for user
   
-All sets are saved in memory and user have access to data at any time.
+## Start&Running
+... 
 
 TODO LIST (for developing use):
 
